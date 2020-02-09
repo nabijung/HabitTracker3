@@ -18,3 +18,5 @@ COUNT
 
 Selecting/Tapping a particular cell will increment the count by 1.
 
+To get started, uncomment line 61 to 84 first, then follow the steps we did in class to configure the table and collection view.  Then work on the custom TableViewCell and CollectionViewCell.
+
